@@ -1,2 +1,2 @@
 # Introduction-to-Java-Online
-Introdiction to Java Online course, solved tasks.
+Introduction to Java Online course, solved tasks.
